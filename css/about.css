@@ -383,8 +383,23 @@ nav.open ~ .overlay {
     }
     .social-menu ul li a{
         margin:5px;
+        color: #0057ff;
     }
     body {
         margin: 0;
     }
+    footer .social-menu ul li:nth-child(1) a{
+        background-color:  #171515;
+    }
+    footer .social-menu ul li:nth-child(2) a{
+        background-color: #0072b1;
+    }
+    footer .social-menu ul li .fab{
+        font-size: 25px;
+        line-height: 40px;
+        transition: .3s;
+        color: #fff;
+    }
+      
+    
 }
