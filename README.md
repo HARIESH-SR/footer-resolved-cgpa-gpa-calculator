@@ -1,0 +1,1 @@
+# footer-resolved-cgpa-gpa-calculator
